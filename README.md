@@ -10,6 +10,7 @@ The application also enables customer registration with all data from the addres
 ### Used technologies
 
 - React
+- Hooks
 - JavaScript
 - Material UI
 - HTML5
