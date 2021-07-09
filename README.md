@@ -1,6 +1,6 @@
 # Web Shop App React
 
-This is frontend eCommerce application based on React and using commerce.js for backend.
+This is frontend eCommerce application based on React.
 
 ## How works this app:
 
@@ -9,11 +9,10 @@ The application also enables customer registration with all data from the addres
 
 ### Used technologies
 
-- React
-- Hooks
+- React / Hooks
+- React Router
 - JavaScript
+- ES6
 - Material UI
 - HTML5
 - CSS
-
-
